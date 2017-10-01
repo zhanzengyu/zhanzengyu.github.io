@@ -1,0 +1,25 @@
+# ----------- CONFIGURABLE START -----------
+title:            "nesger"
+description:      "天道酬勤"
+url:              https://nesger.github.io/ # Site url, without a slash at the end.
+signoff:          "nesger" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Blog
+    url:          /
+    external:     false
+  - name:         About
+    url:          /about
+    external:     false
+  - name:         GitHub
+    url:          https://github.com/nesger
+    external:     true
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
