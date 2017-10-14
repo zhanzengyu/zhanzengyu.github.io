@@ -17,6 +17,9 @@ links:
   - name:         GitHub
     url:          https://github.com/nesger
     external:     true
+  - name:         Welfare
+    url:          /welfare
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
