@@ -1,5 +1,4 @@
 ---
-url: https://www.baidu.com
 title: android开发之调皮的权限
 ---
 [简书地址](http://www.jianshu.com/p/8de4385b6ade){:target="_blank"}
