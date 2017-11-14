@@ -2,10 +2,16 @@
 <!doctype>
 <html lang="en">
   <head>
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+    </script>
     <meta content='{{ page.title }} - {{ site.title }}' name='title' />
     <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
     <title>{{ page.title }} - {{ site.title }}</title>
     {% include head.html %}
+    <style>
+        span{font-weight:bold}
+    </style>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   </head>
   <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
     <header class="tc mt4">
@@ -33,6 +39,14 @@
               {% endif %}
               {{ page.title }}
             </h1>
+    {% if is_post %}
+        <br/>
+        <span id="busuanzi_container_page_pv">
+            该文被宠幸<span id="busuanzi_value_page_pv">
+            <i class="fa fa-spinner fa-spin"></i>
+            </span>次
+        </span>
+    {% endif %}
             {% if is_post and site.share %}
               <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
               <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -47,5 +61,22 @@
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
+ 
+    {% if is_post %}
+    {% else %}
+    <div align="center">
+        <span id="busuanzi_container_site_uv">
+        你是第<span id="busuanzi_value_site_uv">
+        <i class="fa fa-spinner fa-spin"></i>
+        </span>位探索者
+        </span>
+        <br/>
+        <span id="busuanzi_container_site_pv">
+        本站已被宠幸<span id="busuanzi_value_site_pv">
+        <i class="fa fa-spinner fa-spin"></i>
+        </span>次
+        </span>
+    </div>
+    {% endif %}
   </body>
 </html>
