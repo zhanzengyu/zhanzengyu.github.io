@@ -156,6 +156,6 @@ private void initRecyclerView() {
 ![](../images_post/recyclerview_base.png)
 
 ***心动不如行动，赶紧自己去敲下代码熟悉下呗～***  
-**[代码传送门](https://github.com/nesger/AndroidLife)**
+**[代码传送门](https://github.com/nesger/RecyclerView)**
 
 
