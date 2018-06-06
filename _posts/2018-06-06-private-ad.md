@@ -7,7 +7,6 @@ title: 隐私政策(带广告)
 | 权限                   | 用途     |
 | -------------------- | ------ |
 | ACCESS_NETWORK_STATE | 友盟统计必须 |
-| READ_PHONE_STATE     | 友盟统计必须 |
 | ACCESS_WIFI_STATE    | 友盟统计必须 |
 | INTERNET             | 友盟统计必须 |
 
