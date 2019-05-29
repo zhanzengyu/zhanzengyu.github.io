@@ -5,3 +5,10 @@
 - 微博：安卓小哥
 - 邮箱：nesger.zhan@gmail.com
 
+# Get started
+
+Run bundle install
+
+Run Jekyll: bundle exec jekyll serve -w
+
+Go to http://localhost:4000 for your site.
