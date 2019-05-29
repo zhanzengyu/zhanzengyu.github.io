@@ -11,6 +11,9 @@ links:
   - name:         Blog
     url:          /
     external:     false
+  - name:         Flutter
+    url:          /flutter
+    external:     false
   - name:         About
     url:          /about
     external:     false
