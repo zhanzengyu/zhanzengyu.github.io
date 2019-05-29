@@ -1,7 +1,8 @@
 ---
-title: 
+title: 关于我
 ---
->一枚android开发者，同事喜欢叫我安卓小哥
+
+介绍：使用过 nesger、AndroidTraveler、安卓小煜 等ID
 
 - [GitHub](https://github.com/nesger){:target="_blank"}
 - [简书](http://www.jianshu.com/u/a6ff25236148){:target="_blank"}
