@@ -14,6 +14,9 @@ links:
   - name:         Flutter
     url:          /flutter
     external:     false
+  - name:         App
+    url:          /app
+    external:     false
   - name:         About
     url:          /about
     external:     false
