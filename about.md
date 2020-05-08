@@ -11,4 +11,5 @@ title: 关于我
 - 微博：安卓小煜
 - 邮箱：nesger.zhan@gmail.com
 
-
+### 微信公众号
+![](./images/wechat.png)
