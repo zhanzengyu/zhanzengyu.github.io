@@ -8,11 +8,8 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Blog
-    url:          /
-    external:     false
   - name:         Flutter
-    url:          /flutter
+    url:          /
     external:     false
   - name:         App
     url:          /app

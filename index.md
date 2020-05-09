@@ -1,23 +1,18 @@
 ---
-title: 个人开发的 APP
+title: Flutter 即学即用系列博客
 ---
 
-纯 Flutter 开发 APP
-#### 1. 计划
-**介绍：**  
-该应用方便用户创建一天的计划安排。  
-让你合理安排时间，不再迷茫。  
-比如工作日的安排、周末假期安排。  
-支持创建多个计划。  
-支持删除已经创建的计划。  
+**介绍：**本人因为亲身经历从小白到 Flutter 功能上线全过程，因此将其写成博客，希望能够帮助广大开发者快速入门 Flutter。
 
-**点击右边链接下载：** [***计划.apk***](./apks/1.0.0.apk)
-
- 图片预览如下：
-
-![](./images/01.png)
-
-![](./images/02.png)
-
-![](./images/03.png)
-
+[Flutter 即学即用系列博客总结篇](https://mp.weixin.qq.com/s/VM3e3b6Z_3VclW8smjAVCA)  
+[Flutter 即学即用系列博客——01 环境搭建](https://mp.weixin.qq.com/s/mEwJE5mXwpmuWgVNL9O42g)  
+[Flutter 即学即用系列博客——02 一个纯 Flutter Demo 说明](https://mp.weixin.qq.com/s/LAmQYsjZmn56HZWrSZ59vQ)  
+[Flutter 即学即用系列博客——03 在旧有项目引入 Flutter](https://mp.weixin.qq.com/s/OGbH3G3wHVTUt-0EJit8RA)  
+[Flutter 即学即用系列博客——04 Flutter UI 初窥](https://mp.weixin.qq.com/s/8s2ye_bvkUDn8yrEEDS1dQ)  
+[Flutter 即学即用系列博客——05 StatelessWidget vs StatefulWidget](https://mp.weixin.qq.com/s/TiJgFsZkHaNWSnvGfUraTQ)  
+[Flutter 即学即用系列博客——06 超实用 Widget 集锦](https://mp.weixin.qq.com/s/bWAefJgqFQu5xRWvsCXLBQ)  
+[Flutter 即学即用系列博客——07 RenderFlex overflowed 引发的思考](https://mp.weixin.qq.com/s/CfXR3nshGD8LwG0FgaemVw)  
+[Flutter 即学即用系列博客——08 MethodChannel 实现 Flutter 与原生通信](https://mp.weixin.qq.com/s/aPFO_IsRED8flVxWRdchKw)  
+[Flutter 即学即用系列博客——09 EventChannel 实现原生与 Flutter 通信（一）](https://mp.weixin.qq.com/s/iLNL4uP0pC6lYGyTIcXEGQ)  
+[Flutter 即学即用系列博客——09 MethodChannel 实现原生与 Flutter 通信（二）](https://mp.weixin.qq.com/s/AgvLUSaEBNfsAIqqGoQUZA)  
+[Flutter 即学即用系列博客——10 混淆](https://mp.weixin.qq.com/s/p3gokmuXvLwzcEjg-bSP0w)
