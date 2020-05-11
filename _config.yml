@@ -20,6 +20,9 @@ links:
   - name:         About
     url:          /about
     external:     false
+  - name:         KotlinSample
+    url:          https://github.com/nesger/DiveIntoKotlinSamples
+    external:     true
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
